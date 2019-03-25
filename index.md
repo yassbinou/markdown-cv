@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Amine LABASSI
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amine LABASSI
+Architecte technique/DevOps, 10 ans d'expérience.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
+## Actuellement
 
-## Currently
+__Architecte Technique / Devops pour Société Générale depuis 2017__
 
-Standing on the shoulders of giants
+## Spécialités
 
-### Specialized in
+Application cloud native, Architectures réactives, Programmation événmentielle 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Compétences
 
+* __Langages :__ Java, Javascript
+* __BDD :__ MongoDB, Postgresql, Mysql, ...
+* __Méthodes et outils :__ Git, IntellIJ, Eclipse
+* __Forges logicielles :__ Gitlab, Jenkins, Ansible
+* __Frameworks :__ Spring, JHipster,VertX, Angular
 
-### Research interests
+## Formation
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2003`
+__Diplomé de l'EPITA, spécialité MMA__
 
+`1999`
+__Classes préparatoires aux grandes écoles (TSI)__
 
-## Education
+`1997`
+__BAC STI Génie Electronique__
 
-`1654-1660`
-__The King's School, Grantham.__
+## Missions
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Depuis 10/2018`
+__ADS Géo__, Toulouse
+{: .hrtde }
+- __Rôle :__ Architecte DEVOPS
+- __Projet Agrifactory :__
+  - Le projet Agrifactory a pour but de mettre en place une plateforme de service métiers dans le cloud (GKE). Les enjeux sont la réduction du Time to Market et la mutualisation des coûts d'exploitation, permettant ainsi la création de nouveaux services plus facilement.
+- __Compétences :__ 
+  - GITLAB CI / DEVOPS
+  - Architecture micro-services
+  - Docker
+  - Kubernetes
+  - Google Cloud Platform
+## Centre d'inétêts
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Développement logiciel, Arts martiaux, Science-Fiction
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour : 25/03/2019
 
-
+-->
