@@ -3,7 +3,7 @@ layout: cv
 title: CV Amine LABASSI
 ---
 # Amine LABASSI
-Architecte technique/DevOps, 10 ans d'expérience.
+Architecte technique/DevOps, 9 ans d'expérience.
 
 <div id="webaddress">
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
@@ -19,22 +19,46 @@ Application cloud native, Architectures réactives, Programmation événmentiell
 
 ## Compétences
 
-* __Langages :__ Java, Javascript
-* __BDD :__ MongoDB, Postgresql, Mysql, ...
-* __Méthodes et outils :__ Git, IntellIJ, Eclipse
-* __Forges logicielles :__ Gitlab, Jenkins, Ansible
-* __Frameworks :__ Spring, JHipster,VertX, Angular
-
+* __Méthodologie projet :__ 
+       Scrum, Cycle V
+* __Architectures :__ 
+       N-Tiers, SOA, Cloud, Microservices
+* __API Management :__ 
+      IBM API Connect
+* __Conception :__ 
+      UML, MERISE, Design Patterns
+* __Web :__ 
+      AngularJs/Javascript, HTML/CSS, Bootstrap
+      RIA (Flex, JSF/PrimeFaces)
+      Tooling/Testing : Bower, NodeJs, Karma, Jasmine
+* __Java Ecosystem :__ 
+      Java language
+			Core APIs (Servlet/JSP/JSTL, JDBC/JPA, JAXB, JAX-WS/ RS, JavaMail, ExecutorService)
+			JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
+			API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
+			Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
+			Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
+* __Languages :__
+      Groovy, C/C++, SQL/PLSQL
+* __Outils :__
+      Versionning (ClearCase, SVN, Git)
+			IDE (Eclipse, Intellij, IReport, SQL Developer, Squirrel)
+			Build/CI (Maven, Gradle, Jenkins)
+			JIRA, QC, Redmine
+			Liquibase, FlyWayDB
+* __SGBD :__
+      Oracle, MySQL, Sybase, PostgreSql, DB2
+* __Métiers :__
+      Assurance : garantie crédit, assurance de vie, épargne
+			Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
+			Télécom : provisionning FAI (Accès, VOIP, IPTV)
+* __Métiers :__
+      Anglais Fluide (TOEIC 805Pts, One-Week Training)
+      
 ## Formation
 
-`2003`
-__Diplomé de l'EPITA, spécialité MMA__
-
-`1999`
-__Classes préparatoires aux grandes écoles (TSI)__
-
-`1997`
-__BAC STI Génie Electronique__
+`2011`
+__Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'information__
 
 ## Missions
 
@@ -50,10 +74,23 @@ __ADS Géo__, Toulouse
   - Docker
   - Kubernetes
   - Google Cloud Platform
-
+  
+`12/2015 à 01/2017`
+__Orange__, Toulouse
+{: .hrtde }
+- __Rôle :__ Consultant Expert Java 
+- __Projet CATV :__ Le projet CATV permet l’animation des contenus (VOD, Live) sur les box internet d’Orange.
+Il s’agit d’une refonte d’un système existant sur des technologies Java/J2EE.
+- __Compétences :__ 
+  - Java EJB 3
+  - GWT
+  - Postgresql
+  - Ansible / DEVOPS
+  - Méthodes Agiles ( SCRUM ) 
+  
 ## Centre d'intérêts
 
-Développement logiciel, Arts martiaux, Science-Fiction
+Calligraphie, Histoire des sciences
 
 <!-- ### Footer
 
