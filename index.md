@@ -19,31 +19,31 @@ Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 * __API Management :__<br/>IBM API Connect
 * __Conception :__<br/>UML, MERISE, Design Patterns
 * __Web :__<br/>AngularJs/Javascript, HTML/CSS, Bootstrap
-RIA (Flex, JSF/PrimeFaces)
-Tooling/Testing : Bower, NodeJs, Karma, Jasmine
+<br/>RIA (Flex, JSF/PrimeFaces)
+<br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
-Java language
-Core APIs (Servlet/JSP/JSTL, JDBC/JPA, JAXB, JAX-WS/ RS, JavaMail, ExecutorService)
-JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
-API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
-Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
-Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
+<br/>Java language
+<br/>Core APIs (Servlet/JSP/JSTL, JDBC/JPA, JAXB, JAX-WS/ RS, JavaMail, ExecutorService)
+<br/>JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
+<br/>API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
+<br/>Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
+<br/>Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
 * __Languages :__
-Groovy, C/C++, SQL/PLSQL
+<br/>Groovy, C/C++, SQL/PLSQL
 * __Outils :__
-Versionning (ClearCase, SVN, Git)
-IDE (Eclipse, Intellij, IReport, SQL Developer, Squirrel)
-Build/CI (Maven, Gradle, Jenkins)
-JIRA, QC, Redmine
-Liquibase, FlyWayDB
+<br/>Versionning (ClearCase, SVN, Git)
+<br/>IDE (Eclipse, Intellij, IReport, SQL Developer, Squirrel)
+<br/>Build/CI (Maven, Gradle, Jenkins)
+<br/>JIRA, QC, Redmine
+<br/>Liquibase, FlyWayDB
 * __SGBD :__
-Oracle, MySQL, Sybase, PostgreSql, DB2
+<br/>Oracle, MySQL, Sybase, PostgreSql, DB2
 * __Métiers :__
-Assurance : garantie crédit, assurance de vie, épargne
-Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
-Télécom : provisionning FAI (Accès, VOIP, IPTV)
+<br/>Assurance : garantie crédit, assurance de vie, épargne
+<br/>Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
+<br/>Télécom : provisionning FAI (Accès, VOIP, IPTV)
 * __Métiers :__
-Anglais Fluide (TOEIC 805Pts, One-Week Training)
+<br/>Anglais Fluide (TOEIC 805Pts, One-Week Training)
 
 ## Formation
 
