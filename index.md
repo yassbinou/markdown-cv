@@ -3,7 +3,7 @@ layout: cv
 title: CV Amine LABASSI
 ---
 # Amine LABASSI
-Architecte technique/DevOps, 9 ans d'expérience.  
+Architecte technique/DevOps, 9 ans d'expérience.\  
 Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 
 <div id="webaddress">
