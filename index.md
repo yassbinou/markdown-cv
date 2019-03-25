@@ -16,6 +16,7 @@ Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 ## Compétences
 * __Méthodologie projet :__ Scrum, Cycle V
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
+Scrum, Cycle V
 * __API Management :__ 
   - IBM API Connect
 * __Conception :__ 
