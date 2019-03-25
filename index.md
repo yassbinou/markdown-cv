@@ -10,8 +10,6 @@ Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
-## Spécialités
-
 > Application cloud native, Architectures réactives, Programmation événmentielle 
 
 ## Compétences
