@@ -4,32 +4,27 @@ title: CV Amine LABASSI
 ---
 # Amine LABASSI
 Architecte technique/DevOps, 9 ans d'expérience.
+Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 
 <div id="webaddress">
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
-## Actuellement
-
-__Architecte Technique / Devops pour Société Générale depuis 2017__
-
 ## Spécialités
 
-Application cloud native, Architectures réactives, Programmation événmentielle 
+> Application cloud native, Architectures réactives, Programmation événmentielle 
 
 ## Compétences
 
-* __Méthodologie projet :__ 
-Scrum, Cycle V
+* __Méthodologie projet :__ Scrum, Cycle V
 
-* __Architectures :__ 
-N-Tiers, SOA, Cloud, Microservices
+* __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
 
 * __API Management :__ 
-IBM API Connect
+  - IBM API Connect
 
 * __Conception :__ 
-UML, MERISE, Design Patterns
+  - UML, MERISE, Design Patterns
 
 * __Web :__ 
 AngularJs/Javascript, HTML/CSS, Bootstrap
