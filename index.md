@@ -50,7 +50,8 @@ __ADS Géo__, Toulouse
   - Docker
   - Kubernetes
   - Google Cloud Platform
-## Centre d'inétêts
+
+## Centre d'intérêts
 
 Développement logiciel, Arts martiaux, Science-Fiction
 
