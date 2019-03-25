@@ -4,33 +4,26 @@ title: CV Amine LABASSI
 ---
 # Amine LABASSI
 Architecte technique/DevOps, 9 ans d'expérience.
-
-
-Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
-
 <div id="webaddress">
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
 > Application cloud native, Architectures réactives, Programmation événmentielle 
 
+## Actuellement
+Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
+
 ## Compétences
-
 * __Méthodologie projet :__ Scrum, Cycle V
-
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
-
 * __API Management :__ 
   - IBM API Connect
-
 * __Conception :__ 
   - UML, MERISE, Design Patterns
-
 * __Web :__ 
 AngularJs/Javascript, HTML/CSS, Bootstrap
 RIA (Flex, JSF/PrimeFaces)
 Tooling/Testing : Bower, NodeJs, Karma, Jasmine
-
 * __Java Ecosystem :__ 
 Java language
 Core APIs (Servlet/JSP/JSTL, JDBC/JPA, JAXB, JAX-WS/ RS, JavaMail, ExecutorService)
@@ -38,28 +31,23 @@ JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
 API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
 Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
 Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
-
 * __Languages :__
 Groovy, C/C++, SQL/PLSQL
-
 * __Outils :__
 Versionning (ClearCase, SVN, Git)
 IDE (Eclipse, Intellij, IReport, SQL Developer, Squirrel)
 Build/CI (Maven, Gradle, Jenkins)
 JIRA, QC, Redmine
 Liquibase, FlyWayDB
-
 * __SGBD :__
 Oracle, MySQL, Sybase, PostgreSql, DB2
-
 * __Métiers :__
 Assurance : garantie crédit, assurance de vie, épargne
 Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
 Télécom : provisionning FAI (Accès, VOIP, IPTV)
-
 * __Métiers :__
 Anglais Fluide (TOEIC 805Pts, One-Week Training)
-      
+
 ## Formation
 
 `2011`
