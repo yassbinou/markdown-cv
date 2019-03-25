@@ -14,15 +14,11 @@ Architecte technique/DevOps, 9 ans d'expérience.
 Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 
 ## Compétences
-* __Méthodologie projet :__ Scrum, Cycle V
+* __Méthodologie projet :__<br/>Scrum, Cycle V
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
-Scrum, Cycle V
-* __API Management :__ 
-  - IBM API Connect
-* __Conception :__ 
-  - UML, MERISE, Design Patterns
-* __Web :__ 
-AngularJs/Javascript, HTML/CSS, Bootstrap
+* __API Management :__<br/>IBM API Connect
+* __Conception :__<br/>UML, MERISE, Design Patterns
+* __Web :__<br/>AngularJs/Javascript, HTML/CSS, Bootstrap
 RIA (Flex, JSF/PrimeFaces)
 Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
