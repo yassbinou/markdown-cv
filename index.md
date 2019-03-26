@@ -55,7 +55,7 @@ __Société Générale__, Val de Fontenay
 - __Environement métier :__
   - Banque de détails BDDF & CDN
   - SI Agence 
--__Environement technique :__
+- __Environement technique :__
   - Architecture : Cloud, microservices, OpenAPI
   - IBM API Connect, Cloud interne SG, Cloud Amazon
 - __Mission :__ J'interviens en tant que architecte technique Microservices/OpenAPI/Cloud dans le cadre socle digital agence, au sein de la cellule architecture SDA.
