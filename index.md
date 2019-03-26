@@ -8,17 +8,20 @@ Architecte technique/DevOps, 9 ans d'expérience.
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
-> Application cloud native, Architectures réactives, Programmation événmentielle 
+> API Management/Microservices, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
 
 ## Actuellement
 Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 
 ## Compétences
 * __Méthodologie projet :__<br/>Scrum, Cycle V
-* __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
-* __API Management :__<br/>IBM API Connect
 * __Conception :__<br/>UML, MERISE, Design Patterns
-* __Web :__<br/>AngularJs/Javascript, HTML/CSS, Bootstrap
+* __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
+* __Cloud :__
+<br/>Amazon AWS
+<br/>Terraform
+* __API Management :__<br/>IBM API Connect
+* __Web :__<br/>Angular/Javascript, HTML/CSS, Bootstrap
 <br/>RIA (Flex, JSF/PrimeFaces)
 <br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
@@ -28,21 +31,14 @@ Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 <br/>API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
 <br/>Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
 <br/>Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
-* __Languages :__
-<br/>Groovy, C/C++, SQL/PLSQL
-* __Outils :__
-<br/>Versionning (ClearCase, SVN, Git)
-<br/>IDE (Eclipse, Intellij, IReport, SQL Developer, Squirrel)
-<br/>Build/CI (Maven, Gradle, Jenkins)
-<br/>JIRA, QC, Redmine
-<br/>Liquibase, FlyWayDB
+<br/>Vertx
 * __SGBD :__
-<br/>Oracle, MySQL, Sybase, PostgreSql, DB2
+<br/>Cassandra, PostgreSql
 * __Métiers :__
 <br/>Assurance : garantie crédit, assurance de vie, épargne
 <br/>Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
 <br/>Télécom : provisionning FAI (Accès, VOIP, IPTV)
-* __Métiers :__
+* __Langues :__
 <br/>Anglais Fluide (TOEIC 805Pts, One-Week Training)
 
 ## Formation
