@@ -132,27 +132,30 @@ __BOUYGUES TELECOM FAI__, Vélizy
 {: .hrtde }
 - __Rôle :__ Analyste concepteur
 - __Environement métier :__
-  - Souscription contrat assurance-vie
-  - Gestion de contrat : Rachat, Versement libre, Arbitrage
-  - Fonds UC et Euro
-  - Réglementation
+  - Provisionning FAI
+  - Service IPTV
 - __Environement de conception :__
-  - Méthode de conception : PROSPER (une méthodologie home-made, dérivée de MERISE)
-  - Environnement de conception : Visual-Paradigm, PowerAMC
-  - Périmètre fonctionnel : Assurance vie et Epargne
-  - Livrables : Etude d'impact, Chiffrage, STG/STD, Reporting projet
+  - Méthode de conception : UML, MCD
+  - Environnement de conception : Visual-Paradigm, Wiki, SQL-Developper, Redmine
+  - Périmètre fonctionnel : Provisionning
+  - Livrables : Spéc. technique d’interface (STI), Spéc. tech. des besoins logiciels (STBL)
 - __Environement technique :__
-  - Architecture : répartie B2B/B2B2C/F2B
-  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
-  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS),  WS CXF
-  - Serveur d’applications JBoss 5 EAP
-  - SGBDR : SyBase
-- __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE, dans le cadre du projet MCO, au sein de Generali France sur son SI Assurance-vie et Epargne.
-  - Assistance à la MOA
-  - Conception technique générale et détaillée, développement et suivi
-  - Réalisation des développements
-  - Assistance Intégration/Recette
-  - Support aux développeurs JEE/AngularJs
+  - Architecture : SOA
+  - Web-service : SOAP/WSDL, XML/XSD
+  - JEE : JAX-WS , JMS
+  - Orchestration : TIBCO
+  - Serveur d’applications : GlassFish (3)
+  - SGBDR : Oracle (11g)
+- __Mission :__ J'ai intervenu en tant qu'Analyste Concepteur JAVA/JEE, dans le cadre du projet Urbanisation OSS, au sein de Bouygues Télécom.
+  - Organisation et/ou participation aux réunions d’analyse de l’étude de faisabilité (EF)
+  - Participation aux ateliers de conception transverse (CT)
+  - Production des spécifications techniques générales
+  - Organisation de réunion(s) de restitution de la conception technique générale
+  - Production des spécifications techniques détaillées
+  - Organisation de réunion(s) de restitution de la conception technique détaillée
+  - Rédaction de manuel d’exploitation (MEX)
+  - Suivi des développements
+  - Traitement des anomalies de conception
   
 ## Centre d'intérêts
 
