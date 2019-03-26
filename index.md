@@ -156,7 +156,66 @@ __BOUYGUES TELECOM FAI__, Vélizy
   - Rédaction de manuel d’exploitation (MEX)
   - Suivi des développements
   - Traitement des anomalies de conception
-  
+
+`De 04/2013 à 11/2013`
+__Société Générale__, Val de Fontenay
+{: .hrtde }
+- __Rôle :__ Développeur JAVA/JEE
+- __Environement métier :__
+  - Banque de détail
+  - Gestion de compte pour les particuliers : CC, LDD, LA
+  - Produits pour les particuliers : cartes de crédit, Assurances
+- __Environement technique :__
+  - Méthode de conception : UML, Design Patterns (Abstract Factory, Facade, Singleton)
+  - Méthode de conception : UML, Design Patterns (Abstract Factory, Facade, Singleton)
+  - Environnement de développement : Rational Software Architecture (RSA)
+  - Langages de développement : JAVA/J2EE (JSP, EJB), Javascript
+  - Environnement de développement : Eclipse (3.5), Maven, ClearCase, Jenkins, Quality-Center, SQL-Developer, Weblogic Portal
+  - Serveur d’applications : Weblogic (10)
+  - Système d’exploitation : Windows (XP)
+  - SGBDR : Oracle (11)
+  - Autres : Spring 2, JAXB, XSD
+
+- __Mission :__ J'ai intervenu en tant que consultant technique JAVA/JEE, dans le cadre du projet Convergence, au sein de la Société Générale. Ce projet vise à rapprocher les SI de la société générale et du crédit du nord en un système unique de distribution multi-canal basé sur un modèle opérationnel unifié.
+  - Conception technique détaillée
+  - Développement des fonctionnalités en (JAVA, JSP, JavaScript)
+  - Support technique sur des problématiques liées à l’environnement et les outils de développement (5 développeurs)
+  - Revue de code pour les développeurs (5 développeurs)
+  - Rédaction des cahiers de tests, 
+  - Rédaction des cahiers de recette, 
+  - Documentation technique.
+
+`De 04/2011 à 11/2013`
+__CNP Assurances__, Paris
+{: .hrtde }
+- __Rôle :__ Ingénieur étude et développement
+- __Environement métier :__
+  - Caution pour prêt immobilier
+- __Environement technique :__
+  - Méthode de conception : UML (PowerAMC)
+  - Langages de développement : JAVA/JEE 6, Flex 4
+  - Environnement de développement : Eclipse (3.5), 
+  - Serveur d’applications : Tomcat (7)
+  - Système d’exploitation : Windows (XP/Server 2008)
+  - SGBDR : Oracle (11)
+  - Autres : Spring 2, Hibernate 3, JUnit, Maven, Jenkins, ClearCase, Flash Builder Plug-in, Jenkins, Jira, SQL-Developer
+
+- __Mission :__ J'ai intervenu en tant qu'Ingénieur Etude & Développement, dans la cadre du projet de refonte du système d’information de CNP Caution, une filiale de CNP Assurances, spécialisée dans le cautionnement de prêts. 
+  - Recueil de besoin auprès des utilisateurs 
+  - Rédaction de spécifications fonctionnelles et techniques détaillées
+  - POC avec API Open-office
+  - Conception UML
+  - Conception de la base de données ou Modification de la base de données (MCD, MPD)
+  - Développement de l’application : (FLEX, JAVA/JEE, SQL, PL-SQL)
+    - Application de gestion de contrat de caution 
+    - Application de gestion comptable
+    - Fonctionnalité de génération de document PDF (API Open-office)
+  - Rédaction des fiches de tests fonctionnels (GreenPepper)
+  - Tests et validation (GreenPepper, JUnit)
+  - Tests de performances (Simulation réel, calibrage machines, audit code, analyse dump mémoire), (VisualVM)
+  - Rédaction de la documentation technique, 
+  - Formation et support aux utilisateurs (Démos en groupe, formations individuelles),
+
 ## Centre d'intérêts
 
 Calligraphie, Histoire des sciences
