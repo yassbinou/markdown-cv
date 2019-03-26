@@ -51,9 +51,6 @@ __Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'informa
 __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Architecte Technique/DevOps
-- __Environement métier :__
-  - Banque de détails BDDF & CDN
-  - SI Agence 
 - __Mission :__ J'interviens en tant que architecte technique/DevOps, sur les thématiques Microservices/OpenAPI/CloudNative au sein d'une cellule d'architecture.
   - Participation à la mise en place des solutions d’architectures
     - Plateforme de gestion d'événements
@@ -69,80 +66,36 @@ __Société Générale__, Val de Fontenay
     - La définition des architectures d'hébergement
     - La publication des API
     - La mise en place de solutions d’architectures
-- __Mots clés :__ Microservices, OpenAPI, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EventDriven, Programmation événementielle
+- __Compétences :__ Microservices, OpenAPI, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EventDriven, Programmation événementielle
 
 `De 11/2015 à 01/2017`
 __Aviva__, Bois de colombes
 {: .hrtde }
 - __Rôle :__ Tech lead JAVA/Angular
-- __Environement métier :__
-  - Souscription en ligne contrat assurance-vie
-  - Selfcare Client : transaction en ligne pour gestion des contrats souscris
-  - Dématérialisation échange document
-- __Environement de conception :__
-  - Méthode de conception : UML
-  - Périmètre fonctionnel : Assurance vie, Epargne, Dommage
-  - Livrables : Etude d'impact, Chiffrage, UML, Reporting projet
-- __Environement technique :__
-  - Architecture : N-Tiers, SI Réparti (France - Angleterre)
-  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
-  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS, WS)
-  - Serveur d’applications WebSphere
-  - SGBDR : Oracle
 - __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE/Angular, dans le cadre du projet Destination Digitale 2020, au sein d'Aviva France sur son SI Assurance-vie, Epargne et Dommage.
   - Assistance à la MOA (Etude d’impacts, Chiffrage)
   - Conception technique générale et détaillée, développement et suivi
   - Réalisation des développements
   - Assistance Intégration/Recette
   - Support aux développeurs JEE/AngularJs
+- __Compétences :__ UML, SOA, Angular, Spring, Oracle
 
 `De 11/2015 à 01/2017`
 __GENERALI Assurances__, Stade de France
 {: .hrtde }
 - __Rôle :__ Tech lead JAVA/JEE
-- __Environement métier :__
-  - Souscription contrat assurance-vie
-  - Gestion de contrat : Rachat, Versement libre, Arbitrage
-  - Fonds UC et Euro
-  - Réglementation
-- __Environement de conception :__
-  - Méthode de conception : PROSPER (une méthodologie home-made, dérivée de MERISE)
-  - Environnement de conception : Visual-Paradigm, PowerAMC
-  - Périmètre fonctionnel : Assurance vie et Epargne
-  - Livrables : Etude d'impact, Chiffrage, STG/STD, Reporting projet
-- __Environement technique :__
-  - Architecture : répartie B2B/B2B2C/F2B
-  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
-  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS),  WS CXF
-  - Serveur d’applications JBoss 5 EAP
-  - SGBDR : SyBase
 - __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE, dans le cadre du projet MCO, au sein de Generali France sur son SI Assurance-vie et Epargne.
   - Assistance à la MOA
   - Conception technique générale et détaillée, développement et suivi
   - Réalisation des développements
   - Assistance Intégration/Recette
   - Support aux développeurs JEE/AngularJs
-
+- __Compétences :__ MERISE, SOA, B2B, AngularJs, Java/JEE, Spring, SyBase, JBoss
 
 `De 12/2013 à 03/2014`
 __BOUYGUES TELECOM FAI__, Vélizy
 {: .hrtde }
 - __Rôle :__ Analyste concepteur
-- __Environement métier :__
-  - Provisionning FAI
-  - Service IPTV
-- __Environement de conception :__
-  - Méthode de conception : UML, MCD
-  - Environnement de conception : Visual-Paradigm, Wiki, SQL-Developper, Redmine
-  - Périmètre fonctionnel : Provisionning
-  - Livrables : Spéc. technique d’interface (STI), Spéc. tech. des besoins logiciels (STBL)
-- __Environement technique :__
-  - Architecture : SOA
-  - Web-service : SOAP/WSDL, XML/XSD
-  - JEE : JAX-WS , JMS
-  - Orchestration : TIBCO
-  - Serveur d’applications : GlassFish (3)
-  - SGBDR : Oracle (11g)
 - __Mission :__ J'ai intervenu en tant qu'Analyste Concepteur JAVA/JEE, dans le cadre du projet Urbanisation OSS, au sein de Bouygues Télécom.
   - Organisation et/ou participation aux réunions d’analyse de l’étude de faisabilité (EF)
   - Participation aux ateliers de conception transverse (CT)
@@ -153,26 +106,12 @@ __BOUYGUES TELECOM FAI__, Vélizy
   - Rédaction de manuel d’exploitation (MEX)
   - Suivi des développements
   - Traitement des anomalies de conception
+- __Compétences :__ UML, SOA, TIBCO, SOAP, Java/JEE, Spring, Oracle, Glassfish
 
 `De 04/2013 à 11/2013`
 __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Développeur JAVA/JEE
-- __Environement métier :__
-  - Banque de détail
-  - Gestion de compte pour les particuliers : CC, LDD, LA
-  - Produits pour les particuliers : cartes de crédit, Assurances
-- __Environement technique :__
-  - Méthode de conception : UML, Design Patterns (Abstract Factory, Facade, Singleton)
-  - Méthode de conception : UML, Design Patterns (Abstract Factory, Facade, Singleton)
-  - Environnement de développement : Rational Software Architecture (RSA)
-  - Langages de développement : JAVA/J2EE (JSP, EJB), Javascript
-  - Environnement de développement : Eclipse (3.5), Maven, ClearCase, Jenkins, Quality-Center, SQL-Developer, Weblogic Portal
-  - Serveur d’applications : Weblogic (10)
-  - Système d’exploitation : Windows (XP)
-  - SGBDR : Oracle (11)
-  - Autres : Spring 2, JAXB, XSD
-
 - __Mission :__ J'ai intervenu en tant que consultant technique JAVA/JEE, dans le cadre du projet Convergence, au sein de la Société Générale. Ce projet vise à rapprocher les SI de la société générale et du crédit du nord en un système unique de distribution multi-canal basé sur un modèle opérationnel unifié.
   - Conception technique détaillée
   - Développement des fonctionnalités en (JAVA, JSP, JavaScript)
@@ -181,22 +120,12 @@ __Société Générale__, Val de Fontenay
   - Rédaction des cahiers de tests, 
   - Rédaction des cahiers de recette, 
   - Documentation technique.
+- __Compétences :__ UML, N-Tiers, Java/JEE, Oracle, Weblogic
 
 `De 04/2011 à 11/2013`
 __CNP Assurances__, Paris
 {: .hrtde }
 - __Rôle :__ Ingénieur étude et développement
-- __Environement métier :__
-  - Caution pour prêt immobilier
-- __Environement technique :__
-  - Méthode de conception : UML (PowerAMC)
-  - Langages de développement : JAVA/JEE 6, Flex 4
-  - Environnement de développement : Eclipse (3.5), 
-  - Serveur d’applications : Tomcat (7)
-  - Système d’exploitation : Windows (XP/Server 2008)
-  - SGBDR : Oracle (11)
-  - Autres : Spring 2, Hibernate 3, JUnit, Maven, Jenkins, ClearCase, Flash Builder Plug-in, Jenkins, Jira, SQL-Developer
-
 - __Mission :__ J'ai intervenu en tant qu'Ingénieur Etude & Développement, dans la cadre du projet de refonte du système d’information de CNP Caution, une filiale de CNP Assurances, spécialisée dans le cautionnement de prêts. 
   - Recueil de besoin auprès des utilisateurs 
   - Rédaction de spécifications fonctionnelles et techniques détaillées
@@ -212,6 +141,7 @@ __CNP Assurances__, Paris
   - Tests de performances (Simulation réel, calibrage machines, audit code, analyse dump mémoire), (VisualVM)
   - Rédaction de la documentation technique, 
   - Formation et support aux utilisateurs (Démos en groupe, formations individuelles),
+- __Compétences :__ UML, N-Tiers, Flex, Spring, Java/JEE, Oracle, Tomcat
 
 ## Centre d'intérêts
 
