@@ -8,7 +8,7 @@ Architecte technique/DevOps, 9 ans d'expérience.
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a>
 </div>
 
-> API Management/Microservices, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
+> API Management/Open API, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
 
 ## Actuellement
 Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
@@ -48,14 +48,21 @@ __Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'informa
 
 ## Missions
 
-`Depuis 10/2018`
-__ADS Géo__, Toulouse
+`Depuis 01/2017`
+__Société Générale__, Val de Fontenay
 {: .hrtde }
-- __Rôle :__ Architecte DEVOPS
-- __Projet Agrifactory :__
-  - Le projet Agrifactory a pour but de mettre en place une plateforme de service métiers dans le cloud (GKE). Les enjeux sont la réduction du Time to Market et la mutualisation des coûts d'exploitation, permettant ainsi la création de nouveaux services plus facilement.
-- __Compétences :__ 
-  - GITLAB CI / DEVOPS
+- __Rôle :__ Architecte Technique/DevOps
+- __Environement métier :__
+  - Banque de détails BDDF & CDN
+  - SI Agence- 
+-__Environement technique :__
+  - Architecture : Cloud, microservices, OpenAPI
+  - IBM API Connect, Cloud interne SG, Cloud Amazon
+- __Mission :__ J'interviens en tant que architecte technique Microservices/OpenAPI/Cloud dans le cadre socle digital agence, au sein de la cellule architecture SDA.
+  - Développement de solutions d’architectures
+    - Solution de streaming de log
+    - Portail de scaffolding microservices
+    - APIsation via IBM API Connect de la plateforme de build Spice
   - Architecture micro-services
   - Docker
   - Kubernetes
