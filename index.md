@@ -21,7 +21,6 @@ Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
 <br/>Terraform
 * __API Management :__<br/>IBM API Connect
 * __Web :__<br/>Angular/Javascript/NodeJs, HTML/CSS, Bootstrap
-<br/>RIA (Flex, JSF/PrimeFaces)
 <br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
 <br/>Java language
@@ -55,7 +54,7 @@ __Société Générale__, Val de Fontenay
   - Participation à la mise en place des solutions d’architectures
     - Plateforme de gestion d'événements
     - OpenAPI SG
-    - Solution IAM SG  
+    - Solution IAM SG
   - Prototypage
     - Microservices basés sur Spring boot
     - Composants de déploiements pour la plateforme PAAS
