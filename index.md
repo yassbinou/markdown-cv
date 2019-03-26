@@ -9,10 +9,8 @@ Architecte technique/DevOps, 9 ans d'expérience.
   <a>06 48 37 89 62</a>
 </div>
 
-> API Management/Open API, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
-
-## Actuellement
-Actuellement Architecte Technique / Devops chez Société Générale depuis 2017
+## Thèmatiques favorites
+API Management/Open API, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
 
 ## Compétences
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
@@ -46,7 +44,7 @@ __Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'informa
 
 ## Missions
 
-`Depuis 01/2017`
+`Depuis 01/17`
 __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Architecte Technique/DevOps
@@ -67,7 +65,7 @@ __Société Générale__, Val de Fontenay
     - La mise en place de solutions d’architectures
 - __Compétences :__ Microservices, OpenAPI, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EventDriven, Programmation événementielle
 
-`De 11/2015 à 01/2017`
+`De 11/15 à 01/17`
 __Aviva__, Bois de colombes
 {: .hrtde }
 - __Rôle :__ Tech lead JAVA/Angular
@@ -79,7 +77,7 @@ __Aviva__, Bois de colombes
   - Support aux développeurs JEE/AngularJs
 - __Compétences :__ UML, SOA, Angular, Spring, Oracle
 
-`De 11/2015 à 01/2017`
+`De 11/15 à 01/17`
 __GENERALI Assurances__, Stade de France
 {: .hrtde }
 - __Rôle :__ Tech lead JAVA/JEE
@@ -91,7 +89,7 @@ __GENERALI Assurances__, Stade de France
   - Support aux développeurs JEE/AngularJs
 - __Compétences :__ MERISE, SOA, B2B, AngularJs, Java/JEE, Spring, SyBase, JBoss
 
-`De 12/2013 à 03/2014`
+`De 12/13 à 03/14`
 __BOUYGUES TELECOM FAI__, Vélizy
 {: .hrtde }
 - __Rôle :__ Analyste concepteur
@@ -107,7 +105,7 @@ __BOUYGUES TELECOM FAI__, Vélizy
   - Traitement des anomalies de conception
 - __Compétences :__ UML, SOA, TIBCO, SOAP, Java/JEE, Spring, Oracle, Glassfish
 
-`De 04/2013 à 11/2013`
+`De 04/13 à 11/13`
 __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Développeur JAVA/JEE
@@ -121,7 +119,7 @@ __Société Générale__, Val de Fontenay
   - Documentation technique.
 - __Compétences :__ UML, N-Tiers, Java/JEE, Oracle, Weblogic
 
-`De 04/2011 à 11/2013`
+`De 04/11 à 11/13`
 __CNP Assurances__, Paris
 {: .hrtde }
 - __Rôle :__ Ingénieur étude et développement
