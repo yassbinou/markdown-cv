@@ -54,7 +54,7 @@ __Société Générale__, Val de Fontenay
 - __Rôle :__ Architecte Technique/DevOps
 - __Environement métier :__
   - Banque de détails BDDF & CDN
-  - SI Agence- 
+  - SI Agence 
 -__Environement technique :__
   - Architecture : Cloud, microservices, OpenAPI
   - IBM API Connect, Cloud interne SG, Cloud Amazon
