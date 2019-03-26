@@ -63,23 +63,96 @@ __Société Générale__, Val de Fontenay
     - Solution de streaming de log
     - Portail de scaffolding microservices
     - APIsation via IBM API Connect de la plateforme de build Spice
-  - Architecture micro-services
-  - Docker
-  - Kubernetes
-  - Google Cloud Platform
+  - Prototypage
+    - Microservices basés sur Spring boot
+    - Composants de déploiements pour la plateforme PAAS
+    - Optimisation de la gestion du TLS dans un contexte Cloud
+  - Accompagnement des équipes projets pour
+    - Démarrage de projets microservices
+    - La mise en conformité avec le cadre de référence SocleDigitalAgence
+    - La définition des architectures de déploiement
+    - La publication des API
+    - La mise en place de solutions d’architectures
   
-`12/2015 à 01/2017`
-__Orange__, Toulouse
+`De 11/2015 à 01/2017`
+__Aviva__, Bois de colombes
 {: .hrtde }
-- __Rôle :__ Consultant Expert Java 
-- __Projet CATV :__ Le projet CATV permet l’animation des contenus (VOD, Live) sur les box internet d’Orange.
-Il s’agit d’une refonte d’un système existant sur des technologies Java/J2EE.
-- __Compétences :__ 
-  - Java EJB 3
-  - GWT
-  - Postgresql
-  - Ansible / DEVOPS
-  - Méthodes Agiles ( SCRUM ) 
+- __Rôle :__ Tech lead JAVA/Angular
+- __Environement métier :__
+  - Souscription en ligne contrat assurance-vie
+  - Selfcare Client : transaction en ligne pour gestion des contrats souscris
+  - Dématérialisation échange document
+- __Environement de conception :__
+  - Méthode de conception : UML
+  - Périmètre fonctionnel : Assurance vie, Epargne, Dommage
+  - Livrables : Etude d'impact, Chiffrage, UML, Reporting projet
+- __Environement technique :__
+  - Architecture : N-Tiers, SI Réparti (France - Angleterre)
+  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
+  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS, WS)
+  - Serveur d’applications WebSphere
+  - SGBDR : Oracle
+- __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE/Angular, dans le cadre du projet Destination Digitale 2020, au sein d'Aviva France sur son SI Assurance-vie, Epargne et Dommage.
+  - Assistance à la MOA (Etude d’impacts, Chiffrage)
+  - Conception technique générale et détaillée, développement et suivi
+  - Réalisation des développements
+  - Assistance Intégration/Recette
+  - Support aux développeurs JEE/AngularJs
+
+`De 11/2015 à 01/2017`
+__GENERALI Assurances__, Stade de France
+{: .hrtde }
+- __Rôle :__ Tech lead JAVA/JEE
+- __Environement métier :__
+  - Souscription contrat assurance-vie
+  - Gestion de contrat : Rachat, Versement libre, Arbitrage
+  - Fonds UC et Euro
+  - Réglementation
+- __Environement de conception :__
+  - Méthode de conception : PROSPER (une méthodologie home-made, dérivée de MERISE)
+  - Environnement de conception : Visual-Paradigm, PowerAMC
+  - Périmètre fonctionnel : Assurance vie et Epargne
+  - Livrables : Etude d'impact, Chiffrage, STG/STD, Reporting projet
+- __Environement technique :__
+  - Architecture : répartie B2B/B2B2C/F2B
+  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
+  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS),  WS CXF
+  - Serveur d’applications JBoss 5 EAP
+  - SGBDR : SyBase
+- __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE, dans le cadre du projet MCO, au sein de Generali France sur son SI Assurance-vie et Epargne.
+  - Assistance à la MOA
+  - Conception technique générale et détaillée, développement et suivi
+  - Réalisation des développements
+  - Assistance Intégration/Recette
+  - Support aux développeurs JEE/AngularJs
+
+
+`De 12/2013 à 03/2014`
+__BOUYGUES TELECOM FAI__, Vélizy
+{: .hrtde }
+- __Rôle :__ Analyste concepteur
+- __Environement métier :__
+  - Souscription contrat assurance-vie
+  - Gestion de contrat : Rachat, Versement libre, Arbitrage
+  - Fonds UC et Euro
+  - Réglementation
+- __Environement de conception :__
+  - Méthode de conception : PROSPER (une méthodologie home-made, dérivée de MERISE)
+  - Environnement de conception : Visual-Paradigm, PowerAMC
+  - Périmètre fonctionnel : Assurance vie et Epargne
+  - Livrables : Etude d'impact, Chiffrage, STG/STD, Reporting projet
+- __Environement technique :__
+  - Architecture : répartie B2B/B2B2C/F2B
+  - Couche présentation : AngularJs, HTML, JQuery, Bootstrap, Spring MVC
+  - Couche métier : Spring(IoC, Data, Batch, AOP, JMS),  WS CXF
+  - Serveur d’applications JBoss 5 EAP
+  - SGBDR : SyBase
+- __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE, dans le cadre du projet MCO, au sein de Generali France sur son SI Assurance-vie et Epargne.
+  - Assistance à la MOA
+  - Conception technique générale et détaillée, développement et suivi
+  - Réalisation des développements
+  - Assistance Intégration/Recette
+  - Support aux développeurs JEE/AngularJs
   
 ## Centre d'intérêts
 
