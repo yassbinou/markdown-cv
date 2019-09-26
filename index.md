@@ -10,7 +10,7 @@ Architecte technique/DevOps, 9 ans d'expérience.
 </div>
 
 ## Thèmatiques favorites
-API Management, IAM Management, Cloud Native Application, DevOps, Architectures Réactives
+Cloud, IAM Management, DevOps, API Management, Architectures Réactives
 
 ## Compétences
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
