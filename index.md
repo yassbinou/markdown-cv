@@ -14,8 +14,8 @@ Cloud, IAM Management, DevOps, API Management, Architectures Réactives
 
 ## Compétences
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
-* __Cloud :__
-<br/>Amazon AWS, K8S, OpenShift
+* __Cloud/On-Premise :__
+<br/>Amazon AWS, DockerEE, OpenShift
 <br/>Terraform, Ansible
 * __API Management :__<br/>IBM API Connect, Tyk
 * __Web :__<br/>Angular/Javascript/NodeJs, HTML/CSS, Bootstrap
