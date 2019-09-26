@@ -10,14 +10,14 @@ Architecte technique/DevOps, 9 ans d'expérience.
 </div>
 
 ## Thèmatiques favorites
-API Management/Open API, Application Cloud Native, Architectures Réactives, Event Driven Architecture, Programmation événmentielle, IAM 
+API Management, IAM Management, Cloud Native Application, DevOps, Architectures Réactives
 
 ## Compétences
 * __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
 * __Cloud :__
-<br/>Amazon AWS
-<br/>Terraform
-* __API Management :__<br/>IBM API Connect
+<br/>Amazon AWS, K8S, OpenShift
+<br/>Terraform, Ansible
+* __API Management :__<br/>IBM API Connect, Tyk
 * __Web :__<br/>Angular/Javascript/NodeJs, HTML/CSS, Bootstrap
 <br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
@@ -31,9 +31,8 @@ API Management/Open API, Application Cloud Native, Architectures Réactives, Eve
 * __SGBD :__
 <br/>Cassandra, PostgreSql
 * __Métiers :__
-<br/>Assurance : garantie crédit, assurance de vie, épargne
+<br/>Assurance : garantie crédit, assurance vie, épargne
 <br/>Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
-<br/>Télécom : provisionning FAI (Accès, VOIP, IPTV)
 * __Langues :__
 <br/>Anglais Fluide (TOEIC 805Pts, One-Week Training)
 
@@ -48,9 +47,9 @@ __Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'informa
 __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Architecte Technique/DevOps
-- __Mission :__ J'interviens en tant que architecte technique/DevOps, sur les thématiques Microservices/OpenAPI/CloudNative au sein d'une cellule d'architecture.
-  - Participation à la mise en place des solutions d’architectures
-    - Plateforme de gestion d'événements
+- __Mission :__ J'interviens en tant qu'Architecte Technique/DevOps au sein d'une cellule d'architecture.
+  - Développemennt de socles d'architecture
+    - Message broker Oauth2/Cloud compliant
     - OpenAPI SG
     - Solution IAM SG
   - Prototypage
