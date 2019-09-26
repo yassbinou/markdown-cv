@@ -59,14 +59,14 @@ __Société Générale__, Val de Fontenay
     - Définition d'une architecture applicative
     - Définition d'une architecture d'hébergement
     - Sécurité applicative/d'infrastructure
-    - La mise en place de solutions d’architectures
+    - Audit
 - __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
 
 `11/15-1/17`
 __Aviva__, Bois de colombes
 {: .hrtde }
-- __Rôle :__ Tech lead JAVA/Angular
-- __Mission :__ J'interviens en tant que Tech Lead JAVA/JEE/Angular, dans le cadre du projet Destination Digitale 2020, au sein d'Aviva France sur son SI Assurance-vie, Epargne et Dommage.
+- __Rôle :__ Tech lead
+- __Mission :__ J'interviens en tant que Tech Lead, dans le cadre du projet Destination Digitale 2020, au sein d'Aviva France sur son SI Assurance-vie, Epargne et Dommage.
   - Assistance à la MOA (Etude d’impacts, Chiffrage)
   - Conception technique générale et détaillée, développement et suivi
   - Réalisation des développements
@@ -143,6 +143,6 @@ Calligraphie, Histoire des sciences
 
 <!-- ### Footer
 
-Dernière mise à jour : 25/03/2019
+Dernière mise à jour : 26/09/2019
 
 -->
