@@ -48,21 +48,19 @@ __Société Générale__, Val de Fontenay
 {: .hrtde }
 - __Rôle :__ Architecte Technique/DevOps
 - __Mission :__ J'interviens en tant qu'Architecte Technique/DevOps au sein d'une cellule d'architecture.
-  - Développemennt de socles d'architecture
-    - Message broker Oauth2/Cloud compliant
-    - OpenAPI SG
-    - Solution IAM SG
-  - Prototypage
-    - Microservices basés sur Spring boot
-    - Composants de déploiements pour la plateforme PAAS
-    - Optimisation de la gestion du TLS dans un contexte Cloud
-  - Accompagnement des équipes projets pour
-    - mise en place d'architecture microservices
-    - La mise en conformité avec le cadre de référence SocleDigitalAgence
-    - La définition des architectures d'hébergement
-    - La publication des API
+  - Développemennt de solutions d'architectures
+    - IAM Platform Management (Vertx/Cassandra/AWS/OIDC/DSP2)
+    - OpenAPI SG (IBM API Management/AWS)
+    - Message broker Oauth2/Cloud Native (Vertx/Cassandra/DockerEE)
+  - Veille technologique
+    - Maintenance et évolution du socle d'architecture (cadre de référence) 
+    - Digital framework : Stack technique, Portail de scaffolding, squelettes, librairies, Outillage DevOps
+  - Conseil/Assistance aux projets
+    - Définition d'une architecture applicative
+    - Définition d'une architecture d'hébergement
+    - Sécurité applicative/d'infrastructure
     - La mise en place de solutions d’architectures
-- __Compétences :__ Microservices, OpenAPI, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EventDriven, Programmation événementielle
+- __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
 
 `11/15-1/17`
 __Aviva__, Bois de colombes
