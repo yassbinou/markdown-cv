@@ -54,10 +54,10 @@ __Société Générale__, Val de Fontenay
     - Message broker Oauth2/Cloud Native (Vertx/Cassandra/DockerEE)
   - Veille technologique
     - Maintenance et évolution du socle d'architecture (cadre de référence) 
-    - Digital framework : Stack technique Springboot, Portail de génération squelettes, Frameworks, Outillage DevOps
+    - Digital framework : Stack technique Springboot, Portail de génération de squelettes, Frameworks, Outillage DevOps
   - Accompagnement projets
     - Définition d'une architecture applicative
-    - Définition d'une architecture d'hébergement
+    - Définition d'une architecture de déploiement
     - Sécurité applicative/d'infrastructure
     - Audit applicatif
 - __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
