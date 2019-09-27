@@ -3,7 +3,7 @@ layout: cv
 title: CV Amine LABASSI
 ---
 # Amine LABASSI
-Architecte technique/DevOps, 9 ans d'expérience.
+Architecte Applicatif/DevOps, 9 ans d'expérience.
 <div id="webaddress">
   <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a> | 
   <a>06 48 37 89 62</a>
@@ -13,7 +13,7 @@ Architecte technique/DevOps, 9 ans d'expérience.
 Cloud, IAM Management, DevOps, API Management, Architectures Réactives
 
 ## Compétences
-* __Architectures :__<br/>N-Tiers, SOA, Cloud, Microservices
+* __Architectures :__<br/>Cloud, Microservices, SOA, N-Tiers
 * __Cloud/On-Premise :__
 <br/>Amazon AWS, DockerEE, OpenShift
 <br/>Terraform, Ansible
@@ -26,7 +26,7 @@ Cloud, IAM Management, DevOps, API Management, Architectures Réactives
 <br/>JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
 <br/>API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
 <br/>Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
-<br/>Spring (IoC, Data/JPA, AOP, Web, Security, Transaction, Boot), Google Guice
+<br/>Spring (Boot, IoC, Data/JPA, AOP, Web, Security, Transaction), Google Guice
 <br/>Vertx
 * __SGBD :__
 <br/>Cassandra, PostgreSql
@@ -46,20 +46,20 @@ __Diplôme d’Ingénieur en Informatique (ISTY), spécialté système d'informa
 `1/17-now`
 __Société Générale__, Val de Fontenay
 {: .hrtde }
-- __Rôle :__ Architecte Technique/DevOps
-- __Mission :__ J'interviens en tant qu'Architecte Technique/DevOps au sein d'une cellule d'architecture.
+- __Rôle :__ Architecte Applicatif/DevOps
+- __Mission :__ J'interviens en tant qu'Architecte Applicatif/DevOps au sein d'une cellule d'architecture.
   - Développemennt de solutions d'architectures
     - IAM Platform Management (Vertx/Cassandra/AWS/OIDC/DSP2)
-    - OpenAPI SG (IBM API Management/AWS)
+    - Déploiement de la solution OpenAPI SG dans AWS (AWS/Terraform)
     - Message broker Oauth2/Cloud Native (Vertx/Cassandra/DockerEE)
   - Veille technologique
     - Maintenance et évolution du socle d'architecture (cadre de référence) 
-    - Digital framework : Stack technique, Portail de scaffolding, squelettes, librairies, Outillage DevOps
-  - Conseil/Assistance aux projets
+    - Digital framework : Stack technique Springboot, Portail de génération squelettes, Frameworks, Outillage DevOps
+  - Accompagnement projets
     - Définition d'une architecture applicative
     - Définition d'une architecture d'hébergement
     - Sécurité applicative/d'infrastructure
-    - Audit
+    - Audit applicatif
 - __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
 
 `11/15-1/17`
