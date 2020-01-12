@@ -14,13 +14,11 @@ Développement, Electronique, Informatique embarqué
 
 ## Compétences
 
-* __Langages : Java, C, C++, Python, Javascript, HTML, Css, Assembleur
-* __Electronique : Proteus, Eagle, Mikroc, MPLAB, électronique logique, Pic microcontrôleur   
-* __Web :
+* __Langages :__ Java, C, C++, Python, Javascript, HTML, Css, Assembleur
+* __Electronique :__ électronique de puissance, automatisme, programmation embarqué
+* __Logiciels de conception électronique :__ Proteus, Eagle, Mikroc, MPLAB, Cosmic, Arduino ide
+* __Contrôleurs logiques programmables :__ ST microcontrôleur, Pic microcontrôleur, Arduino, Raspberry
 
-
-* __Langues :__
-<br/>Anglais Fluide (TOEIC 805Pts, One-Week Training)
 
 ## Formation
 
@@ -35,10 +33,11 @@ __Projet "Smart House"__, Radès (TUNISIE)
 - __Evénemment :__Compétition “Journée ouverte des innovations technologiques”__
 - __Projet :__ Réalisation d'un prototype de maison intélligente équipée d'éléments domotiques (1er prix de concours)
   - Réalisation d'une maquette de maison à l'écchelle 1/40
-  - Réalisation d'un circuit qui commande les lumiéres et les fenétres
-  - Réalisation d'un circuit 
-- __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
-
+  - Réalisation d'une application mobile
+  - Réalisation d'un systéme qui commande les lumiéres et les fenétres à distance, on utilisant une raspberry
+  - Réalisation d'un systéme de securité contre les intrus et les fuites de gaz
+  - Réalisation d'un systéme qui informe utilisateur s'il y a un danger à traver des messages GSM ou un appel téléphonique
+- __Compétences :__ Raspberry, Pic microcontrôleur, Python, C, Java, Electronique de puissance  
 ## Centre d'intérêts
 
 Bricolage, Sport, Pêche
