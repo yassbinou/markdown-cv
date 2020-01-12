@@ -37,10 +37,11 @@ __Projet "Smart House"__, Radès (TUNISIE)
   - Réalisation d'un systéme qui commande les lumiéres et les fenétres à distance, on utilisant une raspberry
   - Réalisation d'un systéme de securité contre les intrus et les fuites de gaz
   - Réalisation d'un systéme qui informe utilisateur s'il y a un danger à traver des messages GSM ou un appel téléphonique
-- __Compétences :__ Raspberry, Pic microcontrôleur, Python, C, Java, Electronique de puissance  
+- __Compétences :__ Raspberry, Pic microcontrôleur, Python, C, Java, Electronique de puissance
+
 ## Centre d'intérêts
 
-Bricolage, Sport, Pêche
+ Bricolage, Sport, Pêche
 
 <!-- ### Footer
 
