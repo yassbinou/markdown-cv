@@ -30,7 +30,7 @@ __Diplôme de baccalauréat en sciences techniques, spécialité informatique (e
 `4/2015`
 __Projet "Smart House"__, Radès (TUNISIE)
 {: .hrtde }
-- __Evénemment :__Compétition “Journée ouverte des innovations technologiques”__
+- __Evénemment :__ Compétition “Journée ouverte des innovations technologiques”
 - __Projet :__ Réalisation d'un prototype de maison intélligente équipée d'éléments domotiques (1er prix de concours)
   - Réalisation d'une maquette de maison à l'écchelle 1/40
   - Réalisation d'une application mobile
