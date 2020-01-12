@@ -31,13 +31,14 @@ __Diplôme de baccalauréat en sciences techniques, spécialité informatique (e
 __Projet "Smart House"__, Radès (TUNISIE)
 
 - __Evénemment :__  Compétition “Journée ouverte des innovations technologiques”
+- __Page Facebook d'organisateur du compétition :__  "يوم الإبداعات التكنولوجية"
 - __Projet :__ Réalisation d'un prototype de maison intélligente équipée d'éléments domotiques (1er prix de concours)
   - Réalisation d'une maquette de maison à l'écchelle 1/40
   - Réalisation d'une application mobile
-  - Réalisation d'un systéme qui commande les lumiéres et les fenétres à distance, on utilisant une raspberry
-  - Réalisation d'un systéme de securité contre les intrus et les fuites de gaz
-  - Réalisation d'un systéme qui informe utilisateur s'il y a un danger à traver des messages GSM ou un appel téléphonique
-- __Compétences :__ Raspberry, Pic microcontrôleur, Python, C, Java, Electronique de puissance
+  - Réalisation d'un systéme de commande à distance des lumiéres et des volets, à base d'un raspberry pi
+  - Réalisation d'un systéme de dédection des intrus et fuites de gaz
+  - Réalisation d'un systéme de notification d'urgence par GSM
+- __Compétences :__ Python, C, Java, Raspberry, Pic microcontrôleur, Electronique de puissance
 
 ## Centre d'intérêts
 
