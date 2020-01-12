@@ -40,7 +40,6 @@ __Projet "Smart House"__, Radès (TUNISIE)
 - __Compétences :__ Raspberry, Pic microcontrôleur, Python, C, Java, Electronique de puissance
 
 ## Centre d'intérêts
-
  Bricolage, Sport, Pêche
 
 <!-- ### Footer
