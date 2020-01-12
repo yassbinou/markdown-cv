@@ -1,38 +1,24 @@
 ---
 layout: cv
-title: CV Amine LABASSI
+title: CV Yassine CHBINOU
 ---
-# Amine LABASSI
-Architecte Applicatif/DevOps, 9 ans d'expérience.
+# Yassine CHBINOU
+Bachelier, section sciences techniques.
 <div id="webaddress">
-  <a href="mailto:labassiamine@gmail.com">labassiamine@gmail.com</a> | 
+  <a href="mailto:chbinouyassine@gmail.com">chbinouyassine@gmail.com</a> | 
   <a>06 48 37 89 62</a>
 </div>
 
 ## Thèmatiques favorites
-Cloud, IAM Management, DevOps, API Management, Architectures Réactives
+Développement, Electronique, Informatique embarqué  
 
 ## Compétences
-* __Architectures :__<br/>Cloud, Microservices, SOA, N-Tiers
-* __Cloud/On-Premise :__
-<br/>Amazon AWS, DockerEE, OpenShift
-<br/>Terraform, Ansible
-* __API Management :__<br/>IBM API Connect, Tyk
-* __Web :__<br/>Angular/Javascript/NodeJs, HTML/CSS, Bootstrap
-<br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
-* __Java Ecosystem :__ 
-<br/>Java language
-<br/>Core APIs (Servlet/JSP/JSTL, JDBC/JPA, JAXB, JAX-WS/ RS, JavaMail, ExecutorService)
-<br/>JEE (EJB, CDI, JNDI, JMS, JTA, JSF)
-<br/>API/framework (Hibernate/EclipseLink, CXF, JUnit, JasperReport, OpenOffice, Freemarker)
-<br/>Server (Tomcat, Weblogic, JBoss EAP/Wildfly)
-<br/>Spring (Boot, IoC, Data/JPA, AOP, Web, Security, Transaction), Google Guice
-<br/>Vertx
-* __SGBD :__
-<br/>Cassandra, PostgreSql
-* __Métiers :__
-<br/>Assurance : garantie crédit, assurance vie, épargne
-<br/>Banque : banque de détail (crédit, épargne, moyens de paiement, assurances)
+
+* __Langages : Java, C, C++, Python, Javascript, HTML, Css, Assembleur
+* __Electronique : Proteus, Eagle, Mikroc, MPLAB, électronique logique, Pic microcontrôleur   
+* __Web :
+
+
 * __Langues :__
 <br/>Anglais Fluide (TOEIC 805Pts, One-Week Training)
 
