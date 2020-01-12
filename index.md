@@ -33,7 +33,7 @@ __Projet "Smart House"__, Radès (TUNISIE)
 - __Evénemment :__  Compétition “Journée ouverte des innovations technologiques”
 - __Page Facebook d'organisateur du compétition :__  "يوم الإبداعات التكنولوجية"
 - __Projet :__ Réalisation d'un prototype de maison intélligente équipée d'éléments domotiques (1er prix de concours)
-  - Réalisation d'une maquette de maison à l'écchelle 1/40
+  - Réalisation d'une maquette de maison à l'échelle 1/40
   - Réalisation d'une application mobile
   - Réalisation d'un systéme de commande à distance des lumiéres et des volets, à base d'un raspberry pi
   - Réalisation d'un systéme de dédection des intrus et fuites de gaz
