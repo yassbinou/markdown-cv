@@ -23,7 +23,7 @@ Développement, Electronique, Informatique embarqué
 ## Formation
 
 `2020`
-__Diplôme de baccalauréat en sciences techniques, spécialité informatique (en cours)__
+__Diplôme de baccalauréat en sciences techniques (moyenne: 14.49)__
 
 ## Expériences
 
@@ -40,12 +40,21 @@ __Projet "Smart House"__, Radès (TUNISIE)
   - Réalisation d'un systéme de notification d'urgence par GSM
 - __Compétences :__ Python, C, Java, Raspberry, Pic microcontrôleur, Electronique de puissance
 
+`6/2019`
+__Stage __, Tunis (TUNISIE)
+
+- __Poste :__  Développeur web
+- __Employeur :__ Sté AXEANE
+- __Compétences :__ Java
+
+
+
 ## Centre d'intérêts
 
  Bricolage, Sport, Pêche
 
 <!-- ### Footer
 
-Dernière mise à jour : 12/01/2020
+Dernière mise à jour : 10/01/2021
 
 -->
