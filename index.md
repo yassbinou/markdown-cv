@@ -28,7 +28,7 @@ __Diplôme de baccalauréat en sciences techniques (moyenne: 14.49)__
 ## Expériences
 
 `4/2015`
-__Projet "Smart House"__, Radès (TUNISIE)
+*__Projet "Smart House"__, Radès (TUNISIE)
 
 - __Evénemment :__  Compétition “Journée ouverte des innovations technologiques”
 - __Page Facebook d'organisateur du compétition :__  "يوم الإبداعات التكنولوجية"
@@ -41,7 +41,7 @@ __Projet "Smart House"__, Radès (TUNISIE)
 - __Compétences :__ Python, C, Java, Raspberry, Pic microcontrôleur, Electronique de puissance
 
 `6/2019`
-__Stage __, Tunis (TUNISIE)
+*__Stage __, Tunis (TUNISIE)
 
 - __Poste :__  Développeur web
 - __Employeur :__ Sté AXEANE
